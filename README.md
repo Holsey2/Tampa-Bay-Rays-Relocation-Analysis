@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project sought to assess, analyze, and improve the Tampa Bay Rays team performance for the 2024 season through fiscally-appropriate player acquisitions and financial state via a collaboration of proven ticketing and promotional strategies.  Due to the damages caused by Hurricane Milton, the report was expanded to assess the effectiveness of previous team relocations and to use predictive modeling to analyze which potential location could be the best fit based on relevant factors for selected Metropolitan areas.
+This project sought to assess, analyze, and improve the Tampa Bay Rays team performance for the 2024 season through fiscally-appropriate player acquisitions and financial state via a collaboration of proven ticketing and promotional strategies.  Due to the damages caused by Hurricane Milton, the report was expanded to assess the effectiveness of previous team relocations and to use predictive modeling to analyze which potential location could be the best fit based on relevant factors for each Metropolitan area.
 
 **Background**
 
