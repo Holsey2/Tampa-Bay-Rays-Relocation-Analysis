@@ -2,11 +2,11 @@
 
 **Overview**
 
-This project sought to assess, analyze, and improve the Tampa Bay Rays team performance for the 2024 season through fiscally-appropriate player acquisitions and financial state via a collaboration of proven ticketing and promotional strategies. 
+This project sought to assess, analyze, and improve the Tampa Bay Rays team performance for the 2024 season through fiscally-appropriate player acquisitions and financial state via a collaboration of proven ticketing and promotional strategies.  Due to the damages caused by Hurricane Milton, the report was expanded to assess the effectiveness of previous team relocations and to use predictive modeling to analyze which potential location could be the best fit based on relevant factors for selected Metropolitan areas.
 
 **Background**
 
-As a team, the Tampa Bay Rays failed to achieve their yearly goal to qualify for the Major League Baseball (MLB) Playoffs in 2024. As an organization, the Rays valuation of $1.25 billion ranks 27th and generated revenues of $301 million ranks 28th in the league (Forbes, 2024). Due to the damages caused by Hurricane Milton, the report was expanded to assess the effectiveness of previous team relocations and to use predictive modeling to analyze which potential location could be the best fit based on 5 relevant descriptive factors: 
+As a team, the Tampa Bay Rays failed to achieve their yearly goal to qualify for the Major League Baseball (MLB) Playoffs in 2024. As an organization, the Rays valuation of $1.25 billion ranks 27th and generated revenues of $301 million ranks 28th in the league (Forbes, 2024).
 
 **Methodology**
 
